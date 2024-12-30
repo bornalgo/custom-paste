@@ -3,6 +3,7 @@
   "displayName": "custom_paste",
   "description": "This will replace \"\\\" with \"\\\\\"",
   "version": "0.0.1",
+  "publisher": "bornalgo",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -10,6 +11,7 @@
     "type": "git", 
     "url": "https://github.com/bornalgo/custom-paste.git" 
   },
+  "icon": "images/icon.png",
   "categories": [
     "Other"
   ],
